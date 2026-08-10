@@ -1,0 +1,34 @@
+# Freenet Pro
+
+> Freenet Pro is a remote website partner for U.S. businesses. The studio plans, designs, develops, improves, and supports WordPress, WooCommerce, SEO, maintenance, migrations, and managed hosting projects. It provides planning ranges, not guaranteed quotes or search rankings.
+
+## Primary pages
+- [Services](https://freenetpro.com/services/): Complete service architecture and website types.
+- [Pricing](https://freenetpro.com/pricing/): Preliminary USD project and monthly ranges.
+- [Website Project Planner](https://freenetpro.com/website-project-planner/): Eight-step project brief and preliminary estimator.
+- [Projects](https://freenetpro.com/work/): Selected website work.
+- [Insights](https://freenetpro.com/insights/): Practical web development and SEO guidance.
+- [Contact](https://freenetpro.com/contact/): Project inquiry and direct contact details.
+- [Website Audit](https://freenetpro.com/website-audit/): Evidence-led technical, SEO, UX, conversion, and measurement review.
+
+## Website development
+- [Landing Page Design](https://freenetpro.com/web-development/landing-page-design/): From $750. Best for a single offer, campaign, booking path, or lead-generation goal.
+- [Small Business Website Design](https://freenetpro.com/web-development/small-business-website-design/): From $1,500. Best for an approachable multi-page company website.
+- [Corporate Website Development](https://freenetpro.com/web-development/corporate-website-development/): Scope and estimate after discovery.
+- [E-commerce Website Development](https://freenetpro.com/web-development/ecommerce-website-development/): From $2,750. Includes a focused store foundation; product-count and advanced functions are scoped separately.
+- [Website Redesign](https://freenetpro.com/web-development/website-redesign-services/): Scope and estimate after reviewing the existing website.
+- [Custom Web Platform / Lean MVP](https://freenetpro.com/web-development/custom-web-platform/): From $4,900 for a focused technical foundation and one main workflow.
+
+## Contact
+- Email: kontakt@freenetpro.com
+- Phone / WhatsApp: +48 512 480 599
+- Service area: United States and remote clients worldwide.
+
+All price ranges are preliminary planning estimates in USD. Final scope and price require discovery and technical validation.
+
+## How to evaluate a fit
+- A landing page focuses on one conversion path.
+- A business website explains services, credibility, and next steps across several pages.
+- An e-commerce website adds products, cart, checkout, payment, and fulfillment requirements.
+- A website audit is useful before a redesign, migration, SEO engagement, or paid campaign.
+- The Website Project Planner gathers scope in eight guided steps and returns a preliminary estimate; it is not a binding quote.

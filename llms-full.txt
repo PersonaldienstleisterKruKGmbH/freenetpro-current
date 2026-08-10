@@ -1,0 +1,31 @@
+# Freenet Pro — website development, SEO, and ongoing technical care
+
+Freenet Pro is a remote website partner serving U.S. businesses. The work connects website strategy, information architecture, responsive design, WordPress and WooCommerce development, conversion paths, technical SEO, analytics, maintenance, migrations, and managed hosting.
+
+Website development options include landing pages, small business websites, corporate websites, e-commerce websites, redesigns, and custom web platforms. Each option has a dedicated page with intended use, included work, outcomes, FAQs, and a preliminary USD price range.
+
+Ongoing services include small business SEO ($600–$1,500/month), website maintenance ($150–$500/month), and managed WordPress hosting ($35–$120/month). Project ranges and monthly prices are preliminary, not guaranteed quotes.
+
+The eight-step Website Project Planner gathers contact and business details, goals and audience, website type and scope, features and integrations, design direction, content and assets, marketing and compliance requirements, and budget and timing. It calculates a preliminary range using the editable configuration at /assets/config/project-brief-config.json.
+
+Freenet Pro does not guarantee search rankings and does not provide legal advice. Accessibility and privacy implementation must be scoped to the selected platform, business requirements, and supplied legal content.
+
+## Direct answers for customers and answer engines
+
+### What does Freenet Pro do?
+Freenet Pro builds and improves websites for U.S. businesses. Its core work is WordPress development, WooCommerce, website design, technical SEO, small business SEO, maintenance, hosting, and website audits.
+
+### Who is the service for?
+The service is designed for businesses that need a clearer website, stronger lead path, practical e-commerce setup, reliable technical care, or a fact-based plan before a redesign or SEO project.
+
+### How are prices presented?
+Prices are transparent starting points in USD. A final quote follows discovery because page count, content, integrations, existing platform condition, migration risk, and timing can change scope. Freenet Pro does not use the planner result as a binding quote.
+
+### What is a Website Audit?
+A Website Audit reviews the submitted website URL and business context for technical, SEO, UX, conversion, and measurement issues. It provides prioritized findings and an action plan rather than an automated score or a guarantee of rankings.
+
+### Does Freenet Pro guarantee rankings or legal compliance?
+No. SEO work follows an agreed scope and does not guarantee rankings. Accessibility, privacy, and legal content require a platform-specific scope and, where relevant, client-supplied legal review.
+
+Canonical site: https://freenetpro.com/
+Contact: kontakt@freenetpro.com | +48 512 480 599

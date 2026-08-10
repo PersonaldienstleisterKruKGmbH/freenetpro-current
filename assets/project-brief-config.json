@@ -1,0 +1,56 @@
+{
+  "currency": "USD",
+  "estimateLabel": "Lean Launch preliminary estimate",
+  "positioning": "Professional website design and development with a focused starting scope and transparent add-on pricing.",
+  "websiteTypes": {
+    "landing": { "label": "Landing Page", "from": 750, "includedPages": 1, "included": ["Up to 7 sections", "Responsive design and mobile optimization", "Contact form and basic animations", "Basic technical SEO", "Client-supplied content and photos", "One structured revision round"] },
+    "business": { "label": "Business Website", "from": 1500, "includedPages": 5, "included": ["Up to 5 pages", "Responsive layout and inquiry form", "Clear service structure", "Basic technical SEO and ready HTML", "Client-supplied content", "One structured revision round"] },
+    "ecommerce": { "label": "E-commerce Website", "from": 2750, "includedPages": 5, "included": ["Up to 10 simple products", "Core store pages, cart and checkout", "One payment gateway and basic shipping", "Order email foundation", "Client-supplied product information", "One structured revision round"] },
+    "custom": { "label": "Custom Platform / Lean MVP", "from": 4900, "includedPages": 1, "included": ["Discovery and technical architecture", "Responsive UI and database foundation", "Basic admin area", "One primary workflow and basic testing", "One structured revision round"] }
+  },
+  "ecommerceProductTiers": {
+    "included": { "label": "Up to 10 simple products — included", "amount": 0 },
+    "11-25": { "label": "11–25 products", "amount": 300 },
+    "26-50": { "label": "26–50 products", "amount": 600 },
+    "51-100": { "label": "51–100 products", "amount": 1100 },
+    "101-250": { "label": "101–250 products", "amount": 2000 },
+    "251-500": { "label": "251–500 products", "amount": 3200 }
+  },
+  "features": {
+    "blog": { "label": "Blog setup", "amount": 200 },
+    "booking": { "label": "Online booking", "amount": 300 },
+    "payment": { "label": "Simple payment", "amount": 250 },
+    "variations": { "label": "Product variations", "amount": 250, "onlyFor": "ecommerce" },
+    "filters": { "label": "Product filters", "amount": 300, "onlyFor": "ecommerce" },
+    "language": { "label": "Additional language", "amount": 350 },
+    "calculator": { "label": "Calculator / estimator", "amount": 650 },
+    "crm": { "label": "CRM connection", "amount": 300 },
+    "chat": { "label": "Live chat", "amount": 100 },
+    "newsletter": { "label": "Newsletter integration", "amount": 125 },
+    "portal": { "label": "Customer portal", "amount": 900, "onlyFor": "custom" },
+    "dashboard": { "label": "Advanced dashboard", "amount": 700, "onlyFor": "custom" },
+    "roles": { "label": "Multiple user roles", "amount": 400, "onlyFor": "custom" },
+    "subscriptions": { "label": "Payments and subscriptions", "amount": 700, "onlyFor": "custom" },
+    "bookingWorkflow": { "label": "Booking workflow", "amount": 800, "onlyFor": "custom" },
+    "directory": { "label": "Directory / listings", "amount": 1200, "onlyFor": "custom" },
+    "api": { "label": "API integration (one)", "amount": 650, "onlyFor": "custom" },
+    "documents": { "label": "Document management", "amount": 500, "onlyFor": "custom" }
+  },
+  "content": {
+    "copyEditing": { "label": "Copy editing", "amount": 65, "perPage": true },
+    "copywriting": { "label": "Full copywriting", "amount": 120, "perPage": true },
+    "logoRefresh": { "label": "Logo refresh", "amount": 250 },
+    "identity": { "label": "New basic identity", "amount": 650 }
+  },
+  "marketing": {
+    "seo": { "label": "SEO foundation", "amount": 350 },
+    "localSeo": { "label": "Local SEO setup", "amount": 300 },
+    "gbp": { "label": "Google Business Profile", "amount": 175 },
+    "analytics": { "label": "Analytics and tracking", "amount": 150 }
+  },
+  "carePlans": {
+    "none": { "label": "No care plan selected", "monthly": 0 },
+    "essential": { "label": "Essential Care", "monthly": 99 },
+    "growth": { "label": "Growth Care", "monthly": 199 }
+  }
+}
